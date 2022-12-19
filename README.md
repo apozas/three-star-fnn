@@ -19,7 +19,7 @@ N.-N. Wang, A. Pozas-Kerstjens, C. Zhang, B.-H. Liu, Y.-F. Huang, C.-F. Li, G.-C
 @misc{threestarfnn,
   title = {Certification of non-classicality in all links of a photonic star network without assuming quantum mechanics},
   author = {Wang, Ning-Ning and Pozas-Kerstjens, Alejandro and Zhang, Chao and Liu, Bi-Heng and Huang, Yun-Feng and Li, Chuan-Feng and Guo, Guang-Can  and Gisin, Nicolas and Tavakoli, Armin},
-  print = {2212.xxxxx},
+  eprint = {2212.xxxxx},
   archivePrefix={arXiv}
 }
 ```
