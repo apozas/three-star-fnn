@@ -1,7 +1,7 @@
-## Computational appendix of *[Certification of non-classicality in all links of a photonic star network without assuming quantum mechanics](https://www.arxiv.org/abs/2212.xxxxx)*
+## Computational appendix of *[Certification of non-classicality in all links of a photonic star network without assuming quantum mechanics](https://www.arxiv.org/abs/2212.09765)*
 #### Ning-Ning Wang, Alejandro Pozas-Kerstjens, Chao Zhang, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Nicolas Gisin, and Armin Tavakoli
 
-This is a repository containing the computational appendix of the article "*Certification of non-classicality in all links of a photonic star network without assuming quantum mechanics*. Ning-Ning Wang, Alejandro Pozas-Kerstjens, Chao Zhang, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Nicolas Gisin, and Armin Tavakoli. [arXiv:2212.xxxxx](https://www.arxiv.org/abs/2212.xxxxx)." It provides a detailed explanation of how to write the linear programming problems associated to hybrid classical-nonsignaling-nonsignaling inflations of the three-star network, and the necessary codes for obtaining the witnesses of full network nonlocality depicted in the manuscript.
+This is a repository containing the computational appendix of the article "*Certification of non-classicality in all links of a photonic star network without assuming quantum mechanics*. Ning-Ning Wang, Alejandro Pozas-Kerstjens, Chao Zhang, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Nicolas Gisin, and Armin Tavakoli. [arXiv:2212.09765](https://www.arxiv.org/abs/2212.09765)." It provides a detailed explanation of how to write the linear programming problems associated to hybrid classical-nonsignaling-nonsignaling inflations of the three-star network, and the necessary codes for obtaining the witnesses of full network nonlocality depicted in the manuscript.
 
 All code is written in Python.
 
@@ -13,13 +13,13 @@ Libraries required:
 - [sympy](https://www.sympy.org/) for symbolic manipulations
 
 If you would like to cite this work, please use the following format:
-N.-N. Wang, A. Pozas-Kerstjens, C. Zhang, B.-H. Liu, Y.-F. Huang, C.-F. Li, G.-C. Guo, N. Gisin, and A. Tavakoli, _Certification of non-classicality in all links of a photonic star network without assuming quantum mechanics_, arXiv:2212.xxxxx
+N.-N. Wang, A. Pozas-Kerstjens, C. Zhang, B.-H. Liu, Y.-F. Huang, C.-F. Li, G.-C. Guo, N. Gisin, and A. Tavakoli, _Certification of non-classicality in all links of a photonic star network without assuming quantum mechanics_, arXiv:2212.09765
 
 ```
 @misc{threestarfnn,
   title = {Certification of non-classicality in all links of a photonic star network without assuming quantum mechanics},
   author = {Wang, Ning-Ning and Pozas-Kerstjens, Alejandro and Zhang, Chao and Liu, Bi-Heng and Huang, Yun-Feng and Li, Chuan-Feng and Guo, Guang-Can  and Gisin, Nicolas and Tavakoli, Armin},
-  eprint = {2212.xxxxx},
+  eprint = {2212.09765},
   archivePrefix={arXiv}
 }
 ```
