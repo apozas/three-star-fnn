@@ -1,3 +1,5 @@
+[![DOI](https://www.zenodo.org/badge/579949050.svg)](https://www.zenodo.org/badge/latestdoi/579949050)
+
 ## Computational appendix of *[Certification of non-classicality in all links of a photonic star network without assuming quantum mechanics](https://www.arxiv.org/abs/2212.09765)*
 #### Ning-Ning Wang, Alejandro Pozas-Kerstjens, Chao Zhang, Bi-Heng Liu, Yun-Feng Huang, Chuan-Feng Li, Guang-Can Guo, Nicolas Gisin, and Armin Tavakoli
 
