@@ -15,7 +15,7 @@ Libraries required:
 - [sympy](https://www.sympy.org/) for symbolic manipulations
 
 If you would like to cite this work, please use the following format:
-N.-N. Wang, A. Pozas-Kerstjens, C. Zhang, B.-H. Liu, Y.-F. Huang, C.-F. Li, G.-C. Guo, N. Gisin, and A. Tavakoli, _Certification of non-classicality in all links of a photonic star network without assuming quantum mechanics_, Nat. Commun. *14*, 2153 (2023)
+N.-N. Wang, A. Pozas-Kerstjens, C. Zhang, B.-H. Liu, Y.-F. Huang, C.-F. Li, G.-C. Guo, N. Gisin, and A. Tavakoli, _Certification of non-classicality in all links of a photonic star network without assuming quantum mechanics_, Nat. Commun. **14**, 2153 (2023)
 
 ```
 @article{threestarfnn,
